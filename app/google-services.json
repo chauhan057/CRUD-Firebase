@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197036033623",
+    "firebase_url": "https://crud-with-volley-firebase-default-rtdb.firebaseio.com",
+    "project_id": "crud-with-volley-firebase",
+    "storage_bucket": "crud-with-volley-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197036033623:android:688f57eb98be166be28512",
+        "android_client_info": {
+          "package_name": "com.vishal.crud_volly_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197036033623-382ah38g8jlpf4cs0c1480r3pjcstbih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG1ToLQKIhyKpjhBi6RRRmkhq_smBFGNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197036033623-382ah38g8jlpf4cs0c1480r3pjcstbih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
